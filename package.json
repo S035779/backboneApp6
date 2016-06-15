@@ -1,7 +1,7 @@
 {
   "name": "backbone-js-sample-app6",
   "version": "0.0.1",
-  "description": "Backbone.js View sample model ",
+  "description": "Backbone.js RESTful sample model #6",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S035779/backboneapp6.git"
+    "url": "git+https://github.com/S035779/backboneApp6.git"
   },
   "keywords": [
     "backbone.js"
@@ -17,13 +17,14 @@
   "author": "Mamoru Hashimoto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/S035779/backboneapp6/issues"
+    "url": "https://github.com/S035779/backboneApp6/issues"
   },
-  "homepage": "https://github.com/S035779/backboneapp6#readme",
+  "homepage": "https://github.com/S035779/backboneApp6#readme",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
     "mongoose": "^4.4.20",
     "serve-favicon": "^2.3.0"
-  }
+  },
+  "devDependencies": {}
 }
